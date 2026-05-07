@@ -1,0 +1,3 @@
+A full-stack web application developed as an academic project based on Mavi's business operations. The system replaces manual and spreadsheet-based operations with a centralized database solution that streamlines sales, inventory, warehouse, supplier, employee, and customer management.
+
+Built using python (Flask Framework), MySQL, HTML, CSS, JavaScript, Git, and GitHub, the platform supports real-time inventory tracking, purchase orders, stock transfers, transaction history, low-stock monitoring, and reporting features such as best-selling products, monthly sales reports, and employee sales tracking.
